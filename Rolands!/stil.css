@@ -1,0 +1,190 @@
+#title{
+    color: #1f2833;
+    font-size: 100px;
+    /* background-color:rgb(100, 100, 100);  */
+    background-color: #d79922;
+    font-family: "Lobster", serif;
+    text-shadow: 2px 2px #f13c20;
+   
+}
+#nav{
+    color: #1f2833;
+}
+
+#nav:hover{
+    color:#f13c20;
+    background-color: #efe2ba;
+}
+
+#nav1, #nav2, .nav{
+background-color: #d79922;
+}
+
+/* body{
+background-color: cadetblue;
+} */
+body{
+    background-color: #efe2ba;
+}
+
+
+.bilder{
+position: relative;
+/* left: 700px; */
+left: 0;
+width: 100%;
+height: 600px;
+}
+
+.bilderformeny{
+    position: relative;
+    /* left: 700px; */
+    left: 0;
+    width: 200px;
+    height: 200px;
+    }
+
+#sub{
+    position: relative;
+    /* left: 850px; */
+    left: 550px;
+    font-family: "Lobster", serif;
+    color: #1f2833;
+    text-shadow: 2px 2px #f13c20;
+}
+#sub1{
+    position: relative;
+    /* left: 850px; */
+    left: 550px;
+    font-family: "Lobster", serif;
+    color: #1f2833;
+    text-shadow: 2px 2px #f13c20;
+}
+
+.logo{
+    position: relative;
+    left: 250px;
+    height: 200px;
+    width: 180px;
+}
+#map {
+     height: 400px; /*  The height is 400 pixels  */
+    width: 100%;  /* The width is the width of the web page */
+   }
+
+   #matinfo{
+       background-color: #f13c20;
+       position:relative;
+       border-color: #f13c20;
+   }
+   #matinfo:hover{
+    color:#f13c20;
+    background-color: #efe2ba;
+}
+
+#matinfo2{
+    background-color: #f13c20;
+    position: relative;
+    border-color: #f13c20;
+}
+
+#matinfo2:hover{
+ color:#f13c20;
+ background-color: #efe2ba;
+}  
+
+#matinfo3{
+    background-color: #f13c20;
+    position: relative;
+    border-color: #f13c20;
+}
+
+#matinfo3:hover{
+ color:#f13c20;
+ background-color: #efe2ba;
+}  
+
+#matinfo4{
+    background-color: #f13c20;
+    position: relative;
+    border-color: #f13c20;
+}
+
+#matinfo4:hover{
+ color:#f13c20;
+ background-color: #efe2ba;
+}  
+ 
+#matinfo5{
+    background-color: #f13c20;
+    position: relative;
+    border-color: #f13c20;
+}
+
+#matinfo5:hover{
+ color:#f13c20;
+ background-color: #efe2ba;
+}   
+
+#matinfo6{
+    background-color: #f13c20;
+    position: relative;
+    border-color: #f13c20;
+}
+
+#matinfo6:hover{
+ color:#f13c20;
+ background-color: #efe2ba;
+}
+
+   #button{
+    background-color: #efe2ba;
+    color:#f13c20;
+       position: relative;
+      border-color: #efe2ba;
+   }
+
+   #button1{
+    background-color: #efe2ba;
+    color:#f13c20;
+       position: relative;
+      border-color: #efe2ba;
+   }
+
+   #button2{
+    background-color: #efe2ba;
+    color:#f13c20;
+       position: relative;
+      border-color: #efe2ba;
+   }
+
+   #button:hover{
+       color: #efe2ba;
+       background-color:#f13c20;
+   }
+
+   #button1:hover{
+    color: #efe2ba;
+    background-color:#f13c20;
+}
+
+#button2:hover{
+    color: #efe2ba;
+    background-color:#f13c20;
+}
+
+   .underrubrik{
+    position: relative;
+
+    
+   }
+   .layout{
+      position: relative;
+       left: 460px;
+   }
+
+   .text
+   {
+       position: relative;
+       left: 550px;
+   }
